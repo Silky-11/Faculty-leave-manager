@@ -68,5 +68,3 @@ Responsibilities included:
 ## Conclusion
 The *JIMS Faculty Leave Management System* successfully automates the leave management process, making it more efficient, reliable, and user-friendly.
 
-## 📄 Conclusion
-The *JIMS Faculty Leave Management System* successfully automates the leave management process, making it more efficient, reliable, and user-friendly.
