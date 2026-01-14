@@ -7,6 +7,7 @@ The *JIMS Faculty Leave Management System* is a web-based application designed t
 This system reduces paperwork, improves transparency, and ensures efficient leave tracking for both faculty members and administrators.
 
 # Project link
+https://github.com/Silky-11/Faculty-leave-manager/blob/main/FacultyLeaveManager%20(1).zip
 
 ##  Objectives
 - To digitize the faculty leave application process  
